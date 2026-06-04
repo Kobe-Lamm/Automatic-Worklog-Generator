@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Backend Design",
+        "content": "Discussed Prisma and Supabase Integration"
+    },
+    {
+        "title": "Automation Workflow",
+        "content": "Designed brief architecture for automation workflow"
+    }
+]
